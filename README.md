@@ -10,7 +10,8 @@ An auxiliary list of awesome GUC links, scripts and software.
 > Nodejs version of the above
 - [GUC_Schedule_Viewer](https://github.com/Pandemic1617/GUC_Schedule_Viewer) 
 
-> A more freindly website to view gucian schuedle by id 
+> A more freindly website to view gucian schuedle by id https://gucschedule.web.app/
+
 - [guc-schuedle](https://github.com/aboueleyes/guc-schedule) 
 
  > View current guc schuedle inside your terminal 
@@ -19,6 +20,7 @@ An auxiliary list of awesome GUC links, scripts and software.
  
  > View your grades inside of your terminal 
 
--[guc_room_schedules](https://github.com/Kemosalamy/guc_room_schedules)
+- [guc_room_schedules](https://github.com/Kemosalamy/guc_room_schedules)
 
 > Want an empty room in uni? check this script.
+ https://gucroomschedule.web.app/
