@@ -15,7 +15,7 @@ An auxiliary list of awesome GUC links, scripts and software.
 
  > View current guc schuedle inside your terminal 
 
-- [GUC-Grades](https://github.com/AhmedNasserG/GUC-Grades) check 
+- [GUC-Grades](https://github.com/AhmedNasserG/GUC-Grades)  
  
  > View your grades inside of your terminal 
 
