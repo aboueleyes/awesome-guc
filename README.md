@@ -8,6 +8,9 @@ An auxiliary list of awesome GUC links, scripts and software.
 - [cms-downloader](https://github.com/AhmedAshrafAZ/cms-downloader) 
 
 > Nodejs version of the above
+- [cms-downloader-refined](https://github.com/aboueleyes/cms-downloader-refined)
+
+> A refined python script version of the cms downloader above
 - [GUC_Schedule_Viewer](https://github.com/Pandemic1617/GUC_Schedule_Viewer) 
 
 > A more freindly website to view gucian schuedle by id https://gucschedule.web.app/
